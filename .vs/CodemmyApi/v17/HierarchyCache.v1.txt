@@ -1,0 +1,754 @@
+﻿++Solución "CodemmyApi" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:CodemmyApi.sln
+++CodemmyApi
+i:{00000000-0000-0000-0000-000000000000}:CodemmyApi
+++Connected Services 
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>649
+++Dependencias
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>648
+++Importaciones
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>254
+++Properties
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\properties\
+++wwwroot
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\
+++FileServer
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\
+++2022
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\
+++1
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\
+++30
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\30\
+++3ce0d0cd-4292-4380-8f9c-ec2ce13f0fde.jpg
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\30\3ce0d0cd-4292-4380-8f9c-ec2ce13f0fde.jpg
+++477b84bd-da21-4233-abf2-27dc599d4a39.jpg
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\30\477b84bd-da21-4233-abf2-27dc599d4a39.jpg
+++bf90682a-2ceb-42ee-b5fc-90ead4bbd6d2.jpg
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\30\bf90682a-2ceb-42ee-b5fc-90ead4bbd6d2.jpg
+++c44375d1-63cd-40f8-aa20-61244933c1bc.jpg
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\30\c44375d1-63cd-40f8-aa20-61244933c1bc.jpg
+++dcaa14fb-dc0f-43d9-bc46-dca13a92c7e4.jpg
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\1\30\dcaa14fb-dc0f-43d9-bc46-dca13a92c7e4.jpg
+++2
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\2\
+++bin
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\
+++Controllers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\
+++ArticuloController.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\articulocontroller.cs
+++CategoriaController.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\categoriacontroller.cs
+++CuentaController.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\cuentacontroller.cs
+++ImagenController.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\imagencontroller.cs
+++ImagenXArticuloController.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\imagenxarticulocontroller.cs
+++WeatherForecastController.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\controllers\weatherforecastcontroller.cs
+++DTO
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\
+++Migrations
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\
+++Models
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\models\
+++obj
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\
+++Repository
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\repository\
+++StaticFiles
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\staticfiles\
+++Utilidades
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\utilidades\
+++ApplicationDbContext.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\applicationdbcontext.cs
+++appsettings.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\appsettings.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\appsettings.json
+++Program.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\program.cs
+++Startup.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\startup.cs
+++WeatherForecast.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>650
+++Analizadores
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:analizadores
+++Marcos de trabajo
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:marcos de trabajo
+++Paquetes
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:paquetes
+++Sdk.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++launchSettings.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\properties\launchsettings.json
+++8
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\2\8\
+++Debug
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\
+++CreacionDTO
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\creaciondto\
+++ArticuloDTO.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\articulodto.cs
+++CategoriaDTO.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\categoriadto.cs
+++CredencialesUsuarioDTO.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\credencialesusuariodto.cs
+++PaginacionDTO.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\paginaciondto.cs
+++RespuestaAutenticacionDTO.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\respuestaautenticaciondto.cs
+++20211208200515_Initial.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20211208200515_initial.cs
+++20211208200844_alter-table-ImagenXArticulo.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20211208200844_alter-table-imagenxarticulo.cs
+++20220105183051_sistema-de-usuarios.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20220105183051_sistema-de-usuarios.cs
+++20220130215112_tabla-imagen-col-tipo-de-contenido.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20220130215112_tabla-imagen-col-tipo-de-contenido.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\applicationdbcontextmodelsnapshot.cs
+++Articulo.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\models\articulo.cs
+++Categoria.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\models\categoria.cs
+++Imagen.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\models\imagen.cs
+++ImagenXArticulo.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\models\imagenxarticulo.cs
+++CodemmyApi.csproj.nuget.dgspec.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\codemmyapi.csproj.nuget.dgspec.json
+++CodemmyApi.csproj.nuget.g.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\codemmyapi.csproj.nuget.g.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\codemmyapi.csproj.nuget.g.props
+++CodemmyApi.csproj.nuget.g.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\codemmyapi.csproj.nuget.g.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\codemmyapi.csproj.nuget.g.targets
+++project.assets.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\project.assets.json
+++project.nuget.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\project.nuget.cache
+++ArticuloSQL.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\repository\articulosql.cs
+++IArticuloSQL.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\repository\iarticulosql.cs
+++AutoMapperProfiles.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\utilidades\automapperprofiles.cs
+++HttpContextExtensions.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\utilidades\httpcontextextensions.cs
+++IQueryableExtensions.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\utilidades\iqueryableextensions.cs
+++appsettings.Development.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\appsettings.development.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.21\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>663
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.0)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>666
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.0)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>665
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.21)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>662
+++Microsoft.EntityFrameworkCore.Tools (3.1.21)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>667
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.5)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>668
+++Swashbuckle.AspNetCore (6.2.3)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:>664
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++4dd1807d-5cca-407d-b884-0c21d9cbc1e4.png
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\wwwroot\fileserver\2022\2\8\4dd1807d-5cca-407d-b884-0c21d9cbc1e4.png
+++netcoreapp3.1
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\
+++ArticuloCreacionDTO.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\dto\creaciondto\articulocreaciondto.cs
+++20211208200515_Initial.Designer.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20211208200515_initial.designer.cs
+++20211208200844_alter-table-ImagenXArticulo.Designer.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20211208200844_alter-table-imagenxarticulo.designer.cs
+++20220105183051_sistema-de-usuarios.Designer.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20220105183051_sistema-de-usuarios.designer.cs
+++20220130215112_tabla-imagen-col-tipo-de-contenido.Designer.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\migrations\20220130215112_tabla-imagen-col-tipo-de-contenido.designer.cs
+++Microsoft.Common.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\cs\
+++de
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\de\
+++es
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\es\
+++fr
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\fr\
+++it
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\it\
+++ja
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ja\
+++ko
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ko\
+++pl
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pl\
+++pt-BR
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pt-br\
+++ru
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ru\
+++runtimes
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\
+++tr
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\tr\
+++zh-Hans
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hans\
+++zh-Hant
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hant\
+++AutoMapper.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\automapper.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\automapper.extensions.microsoft.dependencyinjection.dll
+++CodemmyApi.deps.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.deps.json
+++CodemmyApi.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.dll
+++CodemmyApi.exe
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.exe
+++CodemmyApi.pdb
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.pdb
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.pdb
+++CodemmyApi.runtimeconfig.dev.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.runtimeconfig.dev.json
+++CodemmyApi.runtimeconfig.json
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.runtimeconfig.json
+++CodemmyApi.StaticWebAssets.xml
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\codemmyapi.staticwebassets.xml
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\staticwebassets\codemmyapi.staticwebassets.xml
+++dotnet-aspnet-codegenerator-design.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.aspnetcore.authentication.jwtbearer.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Bcl.HashCode.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.bcl.hashcode.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.codeanalysis.workspaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Options.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.openapi.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Newtonsoft.Json.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\newtonsoft.json.dll
+++NuGet.Frameworks.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\nuget.frameworks.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\swashbuckle.aspnetcore.swaggerui.dll
+++System.Collections.Immutable.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.collections.immutable.dll
+++System.Composition.AttributedModel.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.diagnostics.diagnosticsource.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.runtime.caching.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\system.runtime.caching.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\system.security.cryptography.protecteddata.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++staticwebassets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\staticwebassets\
+++.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+++apphost.exe
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\apphost.exe
+++CodemmyApi.AssemblyInfo.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.assemblyinfo.cs
+++CodemmyApi.AssemblyInfoInputs.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.assemblyinfoinputs.cache
+++CodemmyApi.assets.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.assets.cache
+++CodemmyApi.csproj.AssemblyReference.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.csproj.assemblyreference.cache
+++CodemmyApi.csproj.CopyComplete
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.csproj.copycomplete
+++CodemmyApi.csproj.CoreCompileInputs.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.csproj.corecompileinputs.cache
+++CodemmyApi.csproj.FileListAbsolute.txt
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.csproj.filelistabsolute.txt
+++CodemmyApi.GeneratedMSBuildEditorConfig.editorconfig
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.generatedmsbuildeditorconfig.editorconfig
+++CodemmyApi.genruntimeconfig.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.genruntimeconfig.cache
+++CodemmyApi.MvcApplicationPartsAssemblyInfo.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.mvcapplicationpartsassemblyinfo.cache
+++CodemmyApi.MvcApplicationPartsAssemblyInfo.cs
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.mvcapplicationpartsassemblyinfo.cs
+++CodemmyApi.RazorTargetAssemblyInfo.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\codemmyapi.razortargetassemblyinfo.cache
+++Microsoft.NuGet.ImportBefore.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\unix\
+++win
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\
+++win-arm64
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-arm64\
+++win-x64
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-x64\
+++win-x86
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-x86\
+++CodemmyApi.StaticWebAssets.Manifest.cache
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\obj\debug\netcoreapp3.1\staticwebassets\codemmyapi.staticwebassets.manifest.cache
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\swashbuckle.aspnetcore\6.2.3\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\microsoft.entityframeworkcore.design\3.1.21\build\netcoreapp2.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++lib
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\unix\lib\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\
+++native
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-x64\native\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-x86\native\
+++Microsoft.NET.ILLink.Tasks.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++netcoreapp2.0
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\
+++netcoreapp2.1
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\
+++netstandard2.0
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\
+++sni.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\bin\debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++CodemmyApi.csproj.user
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\desktop\pc cg 1\andrés cr\codemmy\desarrollo\back\v1\codemmyapi\codemmyapi\codemmyapi.csproj.user
+++Microsoft.NET.props
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\users\control02\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Docker.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{75d1371c-ad44-4329-b956-5fbd9fcc6494}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
